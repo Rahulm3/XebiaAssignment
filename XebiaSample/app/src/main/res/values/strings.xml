@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nyt News</string>
+    <string name="news_list_titel">NY Times Most Popular</string>
+    <string name="news_list_details">News Detail</string>
+</resources>

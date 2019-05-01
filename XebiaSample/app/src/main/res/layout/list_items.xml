@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <data>
+        <variable
+            name="itemclicklistner"
+            type="com.rahul.sample.xebia.listener.NyNewsItemClickListner"/>
+        <variable
+            name="dataItem"
+            type="com.rahul.sample.xebia.models.ResultsItem"/>
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_list_row"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        android:paddingLeft="?listPreferredItemPaddingLeft"
+        android:paddingTop="@dimen/padding_list_row"
+        android:paddingRight="?listPreferredItemPaddingRight"
+        android:paddingBottom="@dimen/padding_list_row">
+
+        <LinearLayout
+            android:id="@+id/message_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="@{() -> itemclicklistner.onItemClick(dataItem)}"
+            android:orientation="vertical"
+            android:paddingLeft="72dp"
+            android:paddingRight="@dimen/padding_list_row">
+
+            <TextView
+                android:id="@+id/news_header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lines="2"
+                android:text='@{dataItem.title}'
+                android:textColor="@color/from"
+                android:textSize="@dimen/msg_text_primary"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_primary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lines="1"
+                android:text='@{dataItem.adxKeywords}'
+                android:textColor="@color/subject"
+                android:textSize="@dimen/msg_text_secondary"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_timestamp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lines="1"
+
+                android:textColor="@color/message"
+                android:textSize="@dimen/msg_text_secondary" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/icon_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/icon_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fillAfter="false"
+                android:fillEnabled="false">
+
+                <ImageView
+                    android:layout_width="@dimen/icon_width_height"
+                    android:layout_height="@dimen/icon_width_height"
+                    android:src="@drawable/bg_circle" />
+
+                <ImageView
+                    android:layout_width="35dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/icon_front"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fillAfter="false"
+                android:fillEnabled="false">
+
+                <ImageView
+                    android:id="@+id/icon_profile"
+                    android:layout_width="@dimen/icon_width_height"
+                    android:layout_height="@dimen/icon_width_height" />
+
+                <TextView
+                    android:id="@+id/icon_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/icon_text" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/timestamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:text='@{dataItem.publishedDate}'
+            android:textColor="@color/timestamp"
+            android:textSize="@dimen/timestamp"
+            android:textStyle="bold" />
+
+        <ImageView
+        android:id="@+id/icon_star"
+        android:layout_width="@dimen/icon_back"
+        android:layout_height="@dimen/icon_back"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/timestamp"
+        android:background="@android:drawable/ic_menu_my_calendar"
+        android:tint="@color/icon_tint_normal" />
+        <ImageView
+            android:id="@+id/icon_right_arrow"
+            android:layout_width="@dimen/icon_back"
+            android:layout_height="@dimen/icon_back"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/timestamp"
+            android:background="@drawable/right_arrow"
+            android:tint="@color/icon_tint_normal" />
+
+    </RelativeLayout>
+</layout>

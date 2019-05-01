@@ -1,0 +1,1183 @@
+﻿{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1513,
+  "results": [
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/25\/smarter-living\/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html",
+      "adx_keywords": "Procrastination;Emotions;Psychology and Psychologists;Anxiety and Stress;Boredom",
+      "column": null,
+      "section": "Smarter Living",
+      "byline": "By CHARLOTTE LIEBERMAN",
+      "type": "Article",
+      "title": "Why You Procrastinate (It Has Nothing to Do With Self-Control)",
+      "abstract": "If procrastination isn\u2019t about laziness, then what is it about?",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006416140,
+      "asset_id": 100000006416140,
+      "views": 1,
+      "des_facet": [
+        "PROCRASTINATION",
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "ANXIETY AND STRESS"
+      ],
+      "org_facet": [
+        "EMOTIONS",
+        "BOREDOM"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erik Winkowski",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/166a9d7f-8edd-5ae8-88e5-30a6e80e646e"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/28\/us\/politics\/mueller-report-length.html",
+      "adx_keywords": "United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Special Prosecutors (Independent Counsel);Federal Bureau of Investigation;Barr, William P;Mueller, Robert S III",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By NICHOLAS FANDOS and ADAM GOLDMAN",
+      "type": "Article",
+      "title": "Mueller Report Exceeds 300 Pages, Raising Questions About Four-Page Summary",
+      "abstract": "The report submitted by the special counsel, Robert S. Mueller III, was more than 300 pages, raising more questions about the four-page summary of the attorney general.",
+      "published_date": "2019-03-28",
+      "source": "The New York Times",
+      "id": 100000006433666,
+      "asset_id": 100000006433666,
+      "views": 2,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+      ],
+      "org_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "FEDERAL BUREAU OF INVESTIGATION"
+      ],
+      "per_facet": [
+        "BARR, WILLIAM P",
+        "MUELLER, ROBERT S III"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William P. Barr, the attorney general, delivered his summary of the special counsel investigation to Congress on Sunday.",
+          "copyright": "Sarah Silbiger\/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/28\/us\/politics\/28dc-report\/28dc-report-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/28\/us\/politics\/28dc-report\/28dc-report-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/28\/us\/politics\/28dc-report\/28dc-report-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/52965454-19f4-520a-9ef9-0809a68b4a19"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/world\/europe\/scotland-overtoun-bridge-dog-suicide.html",
+      "adx_keywords": "Dogs;Superstitions;Smells and Odors;Historic Buildings and Sites;Bridges and Tunnels;Dumbarton (Scotland)",
+      "column": "Scotland Dispatch",
+      "section": "World",
+      "byline": "By CEYLAN YEGINSU",
+      "type": "Article",
+      "title": "\u2018Dog Suicide Bridge\u2019: Why Do So Many Pets Keep Leaping Into a Scottish Gorge?",
+      "abstract": "Since the 1950s, hundreds of dogs have jumped off a gothic stone bridge in northern Scotland. Many have died. Researchers say there is a rational explanation. Others are not so sure.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000005964249,
+      "asset_id": 100000005964249,
+      "views": 3,
+      "des_facet": [
+        "DOGS",
+        "SMELLS AND ODORS",
+        "BRIDGES AND TUNNELS"
+      ],
+      "org_facet": [
+        "SUPERSTITIONS",
+        "HISTORIC BUILDINGS AND SITES"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "DUMBARTON (SCOTLAND)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cAfter 11 years of research, I\u2019m convinced it\u2019s a ghost that is behind all of this,\u201d says Paul Owens, who grew up nearby and wrote a book about the mystery.",
+          "copyright": "Sophie Gerrard for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/07\/05\/world\/05Scotland-Dispatch4\/merlin_140712825_3b07123a-d841-4fa6-bcc9-dae2ec8b6a5c-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/07\/05\/world\/05Scotland-Dispatch4\/05Scotland-Dispatch4-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/07\/05\/world\/05Scotland-Dispatch4\/05Scotland-Dispatch4-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/b5fdb0af-1a88-5342-9dff-e949185aded1"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/28\/health\/woman-pain-anxiety.html",
+      "adx_keywords": "Genetics and Heredity;Opioids and Opiates;Pain-Relieving Drugs;Anxiety and Stress;University College London;Scotland;Jo Cameron;The British Journal of Anaesthesia;Pain",
+      "column": null,
+      "section": "Health",
+      "byline": "By HEATHER MURPHY",
+      "type": "Article",
+      "title": "At 71, She\u2019s Never Felt Pain or Anxiety. Now Scientists Know Why.",
+      "abstract": "Scientists discovered a previously unidentified genetic mutation in a Scottish woman. They hope it could lead to the development of new pain treatment.",
+      "published_date": "2019-03-28",
+      "source": "The New York Times",
+      "id": 100000006432324,
+      "asset_id": 100000006432324,
+      "views": 4,
+      "des_facet": [
+        "GENETICS AND HEREDITY",
+        "OPIOIDS AND OPIATES",
+        "PAIN-RELIEVING DRUGS",
+        "ANXIETY AND STRESS"
+      ],
+      "org_facet": [
+        "UNIVERSITY COLLEGE LONDON",
+        "THE BRITISH JOURNAL OF ANAESTHESIA",
+        "PAIN"
+      ],
+      "per_facet": [
+        "JO CAMERON"
+      ],
+      "geo_facet": [
+        "SCOTLAND"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jo Cameron, 71, has a rare gene mutation that scientists believe inhibits her from feeling pain or anxiety.",
+          "copyright": "Mary Turner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/science\/27xp-nopain\/27xp-nopain-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/science\/27xp-nopain\/27xp-nopain-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/science\/27xp-nopain\/27xp-nopain-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/02e0395b-1496-540a-8e5f-6687a52a6fca"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/world\/europe\/theresa-may-resignation.html",
+      "adx_keywords": "Great Britain Withdrawal from EU (Brexit);Great Britain;May, Theresa M;Politics and Government;Legislatures and Parliaments;House of Commons (Great Britain);European Union",
+      "column": null,
+      "section": "World",
+      "byline": "By STEPHEN CASTLE",
+      "type": "Article",
+      "title": "Alternate Brexit Plans Rejected; Theresa May Offers to Step Down",
+      "abstract": "The British prime minister did not specify when she would step down, but the European Union has said that it would approve an extension in the Brexit process to May 22, if her plan gained approval.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006431408,
+      "asset_id": 100000006431408,
+      "views": 5,
+      "des_facet": [
+        "GREAT BRITAIN WITHDRAWAL FROM EU (BREXIT)",
+        "POLITICS AND GOVERNMENT",
+        "LEGISLATURES AND PARLIAMENTS"
+      ],
+      "org_facet": [
+        "HOUSE OF COMMONS (GREAT BRITAIN)",
+        "EUROPEAN UNION"
+      ],
+      "per_facet": [
+        "MAY, THERESA M"
+      ],
+      "geo_facet": [
+        "GREAT BRITAIN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Theresa May in Parliament in London on Monday. The Brexit agreement that she negotiated has twice been rejected by lawmakers.",
+          "copyright": "Mark Duffy\/UK Parliament, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/world\/27brexit5\/27brexit5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/world\/27brexit5\/27brexit5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/world\/27brexit5\/27brexit5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/2a76c2cb-b6ec-587d-8c0a-4714efd8870f"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/sports\/conor-mcgregor-sexual-assault.html",
+      "adx_keywords": "McGregor, Conor (1988- );Sex Crimes;Mixed Martial Arts;Ultimate Fighting Championship",
+      "column": null,
+      "section": "Sports",
+      "byline": "By TARIQ PANJA",
+      "type": "Article",
+      "title": "Conor McGregor Under Investigation Over Sexual Assault Accusation in Ireland",
+      "abstract": "The U.F.C. star was arrested and released without charges as the investigation continued.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006333549,
+      "asset_id": 100000006333549,
+      "views": 6,
+      "des_facet": [
+        "SEX CRIMES"
+      ],
+      "org_facet": [
+        "MIXED MARTIAL ARTS",
+        "ULTIMATE FIGHTING CHAMPIONSHIP"
+      ],
+      "per_facet": [
+        "MCGREGOR, CONOR (1988- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Conor McGregor after pleading guilty to a disorderly conduct charge in Brooklyn last year.",
+          "copyright": "Timothy A. Clary\/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/sports\/00Mcgregor1\/00Mcgregor1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/sports\/00Mcgregor1\/00Mcgregor1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/sports\/00Mcgregor1\/00Mcgregor1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/081ced46-1f02-5c56-840b-826843849143"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/health\/obamacare-trump-health.html",
+      "adx_keywords": "Health Insurance and Managed Care;Patient Protection and Affordable Care Act (2010);Medicaid;United States Politics and Government;Trump, Donald J;Federal Aid (US);your-feed-science",
+      "column": null,
+      "section": "Health",
+      "byline": "By REED ABELSON, ABBY GOODNOUGH and ROBERT PEAR",
+      "type": "Article",
+      "title": "What Happens if Obamacare Is Struck Down?",
+      "abstract": "The Affordable Care Act touches the lives of most Americans. Some 21 million could lose health insurance if the Trump administration were to succeed in having the law ruled unconstitutional.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006429636,
+      "asset_id": 100000006429636,
+      "views": 7,
+      "des_facet": [
+        "HEALTH INSURANCE AND MANAGED CARE",
+        "PATIENT PROTECTION AND AFFORDABLE CARE ACT (2010)",
+        "YOUR-FEED-SCIENCE"
+      ],
+      "org_facet": [
+        "MEDICAID",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "FEDERAL AID (US)"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A patient checking in at a community health center in Burton, W.Va. Millions of people could lose their insurance if the Affordable Care Act  were struck down, and millions more could face higher medical bills.",
+          "copyright": "Brendan Smialowski\/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/science\/26ACA-EXPLAINER\/26ACA-EXPLAINER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/science\/26ACA-EXPLAINER\/26ACA-EXPLAINER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/science\/26ACA-EXPLAINER\/26ACA-EXPLAINER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/8ea114a2-58d2-547c-9d4d-6dc878aababf"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/us\/politics\/trump-aca.html",
+      "adx_keywords": "Health Insurance and Managed Care;Patient Protection and Affordable Care Act (2010);United States Politics and Government;Law and Legislation;Trump, Donald J;Mulvaney, Mick;Barr, William P;Justice Department",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MAGGIE HABERMAN and ROBERT PEAR",
+      "type": "Article",
+      "title": "Trump Sided With Mulvaney in Push to Nullify Health Law",
+      "abstract": "President Trump decided to press courts to overturn the Affordable Care Act despite concerns from the attorney general, the health secretary and the vice president.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006431868,
+      "asset_id": 100000006431868,
+      "views": 8,
+      "des_facet": [
+        "PATIENT PROTECTION AND AFFORDABLE CARE ACT (2010)",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "LAW AND LEGISLATION"
+      ],
+      "org_facet": [
+        "HEALTH INSURANCE AND MANAGED CARE",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "MULVANEY, MICK",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mick Mulvaney, the acting White House chief of staff, had spent years in the House saying that the health law should be repealed.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/us\/27dc-health-promo\/27dc-health-promo-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/us\/27dc-health-promo\/27dc-health-promo-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/us\/27dc-health-promo\/27dc-health-promo-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/a7bb4be0-c128-5560-a59d-0ce1003457fd"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/nyregion\/measles-outbreak-rockland-county.html",
+      "adx_keywords": "Measles;Epidemics;Vaccination and Immunization;Rockland County (NY);New York State",
+      "column": null,
+      "section": "New York",
+      "byline": "By MICHAEL GOLD and TYLER PAGER",
+      "type": "Article",
+      "title": "New York Suburb Declares Measles Emergency, Barring Unvaccinated Children From Public",
+      "abstract": "Rockland County\u2019s move to limit the movement of unvaccinated minors is its latest effort to fight New York State\u2019s worst measles outbreak in decades.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006429729,
+      "asset_id": 100000006429729,
+      "views": 9,
+      "des_facet": [
+        "MEASLES",
+        "EPIDEMICS"
+      ],
+      "org_facet": [
+        "VACCINATION AND IMMUNIZATION"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "ROCKLAND COUNTY (NY)",
+        "NEW YORK STATE"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "So far, the measles outbreak in Rockland County has mostly affected ultra-Orthodox communities, public health officials have said.",
+          "copyright": "Bryan Anselm for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/nyregion\/27measles-print\/26measles1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/nyregion\/27measles-print\/26measles1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/nyregion\/27measles-print\/26measles1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/6b9dab55-fcbd-55c2-b1b4-494c0e263447"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/world\/asia\/india-weather-satellite-missle.html",
+      "adx_keywords": "India;Defense and Military Forces;Missiles and Missile Defense Systems;Nuclear Weapons;Space and Astronomy;Satellites;International Relations;Modi, Narendra;Politics and Government;China;Pakistan",
+      "column": null,
+      "section": "World",
+      "byline": "By JEFFREY GETTLEMAN and HARI KUMAR",
+      "type": "Article",
+      "title": "India Shot Down a Satellite, Modi Says, Shifting Balance of Power in Asia",
+      "abstract": "The test could destabilize the balance of power between India and Pakistan and escalate the rivalry with China. With elections near, Mr. Modi played the news for maximum effect.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006431361,
+      "asset_id": 100000006431361,
+      "views": 10,
+      "des_facet": [
+        "DEFENSE AND MILITARY FORCES",
+        "MISSILES AND MISSILE DEFENSE SYSTEMS",
+        "SATELLITES",
+        "POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "NUCLEAR WEAPONS",
+        "SPACE AND ASTRONOMY",
+        "INTERNATIONAL RELATIONS"
+      ],
+      "per_facet": [
+        "MODI, NARENDRA"
+      ],
+      "geo_facet": [
+        "INDIA",
+        "CHINA",
+        "PAKISTAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The launching of a ballistic missile on Wednesday in Odisha, India.",
+          "copyright": "Indian Space Research Organization",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/world\/27india-missile2\/27india-missile2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/world\/27india-missile2\/27india-missile2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/world\/27india-missile2\/27india-missile2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/0eb0e51d-8ea5-5e1a-afa0-e7cfd6e48116"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/magazine\/people-dont-bribe-college-officials-to-help-their-kids-they-do-it-to-help-themselves.html",
+      "adx_keywords": "Colleges and Universities;Admissions Standards;Loughlin, Lori;Giannulli, Mossimo;Parenting",
+      "column": "Screenland",
+      "section": "Magazine",
+      "byline": "By AMANDA HESS",
+      "type": "Article",
+      "title": "People Don\u2019t Bribe College Officials to Help Their Kids. They Do It to Help Themselves.",
+      "abstract": "At least one of the students whose parents stand accused of fraud doesn\u2019t appear to have been very interested in higher education in the first place.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006424065,
+      "asset_id": 100000006424065,
+      "views": 11,
+      "des_facet": [
+        "COLLEGES AND UNIVERSITIES",
+        "ADMISSIONS STANDARDS",
+        "PARENTING"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "LOUGHLIN, LORI",
+        "GIANNULLI, MOSSIMO"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": null,
+          "copyright": null,
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/magazine\/31mag-screenland\/31mag-screenland-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/magazine\/31mag-screenland\/31mag-screenland-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/magazine\/31mag-screenland\/31mag-screenland-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/6abcdabc-9a89-5783-84a2-1301a3ccaf3b"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/us\/politics\/mueller-investigation-watergate.html",
+      "adx_keywords": "Mueller, Robert S III;Special Prosecutors (Independent Counsel);Trump, Donald J;Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;Presidents and Presidency (US);Watergate Affair;Nixon, Richard Milhous;Barr, William P;Justice Department",
+      "column": "News Analysis",
+      "section": "U.S.",
+      "byline": "By PETER BAKER",
+      "type": "Article",
+      "title": "Mueller\u2019s Investigation Erases a Line Drawn After Watergate",
+      "abstract": "The special counsel\u2019s decision not to take a position on whether President Trump\u2019s norm-shattering actions constituted obstruction means future presidents will feel entitled to make similar moves.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006430384,
+      "asset_id": 100000006430384,
+      "views": 12,
+      "des_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "PRESIDENTS AND PRESIDENCY (US)",
+        "WATERGATE AFFAIR",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "NIXON, RICHARD MILHOUS",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert S. Mueller III, the special counsel, with his wife, Ann Standish. The question of obstruction has emerged as the most debated part of Mr. Mueller\u2019s inquiry.",
+          "copyright": "Cliff Owen\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/us\/26dc-assess-1\/26dc-assess-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/us\/26dc-assess-1\/26dc-assess-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/us\/26dc-assess-1\/26dc-assess-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/61d32c88-177f-5690-a6ac-fb898e43cd25"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/technology\/turing-award-ai.html",
+      "adx_keywords": "Artificial Intelligence;Hinton, Geoffrey E;Bengio, Yoshua;LeCun, Yann;Assn for Computing Machinery;Awards, Decorations and Honors;Research;University of Montreal;University of Toronto;New York University",
+      "column": null,
+      "section": "Technology",
+      "byline": "By CADE METZ",
+      "type": "Article",
+      "title": "Turing Award Won by 3 Pioneers in Artificial Intelligence",
+      "abstract": "For their work on neural networks, Geoffrey Hinton, Yann LeCun and Yoshua Bengio will share $1 million for what many consider the Nobel Prize of computing.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006427630,
+      "asset_id": 100000006427630,
+      "views": 13,
+      "des_facet": [
+        "ARTIFICIAL INTELLIGENCE",
+        "RESEARCH"
+      ],
+      "org_facet": [
+        "ASSN FOR COMPUTING MACHINERY",
+        "AWARDS, DECORATIONS AND HONORS",
+        "UNIVERSITY OF MONTREAL",
+        "UNIVERSITY OF TORONTO",
+        "NEW YORK UNIVERSITY"
+      ],
+      "per_facet": [
+        "HINTON, GEOFFREY E",
+        "BENGIO, YOSHUA",
+        "LECUN, YANN"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Yann LeCun, Geoffrey Hinton and Yoshua Bengio. The researchers worked on key developments for neural networks, which are reshaping how computer systems are built.",
+          "copyright": "From left, Facebook, via Associated Press; Aaron Vincent Elkaim for The New York Times; Chad Buchanan\/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/business\/27TURING-triptych\/27TURING-triptych-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/business\/27TURING-triptych\/27TURING-triptych-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/business\/27TURING-triptych\/27TURING-triptych-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/02843740-73e2-5b64-b432-1511a6fe41f2"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/28\/world\/asia\/brunei-stoning-death.html",
+      "adx_keywords": "Adultery;Shariah (Islamic Law);Homosexuality and Bisexuality;Brunei",
+      "column": null,
+      "section": "World",
+      "byline": "By AUSTIN RAMZY",
+      "type": "Article",
+      "title": "Brunei to Punish Adultery and Gay Sex With Death by Stoning",
+      "abstract": "Statutes allowing stoning and amputation will go into effect in the sultanate beginning on April 3. That has set off an outcry from human rights groups.",
+      "published_date": "2019-03-28",
+      "source": "The New York Times",
+      "id": 100000006433173,
+      "asset_id": 100000006433173,
+      "views": 14,
+      "des_facet": [
+        "ADULTERY",
+        "SHARIAH (ISLAMIC LAW)"
+      ],
+      "org_facet": [
+        "HOMOSEXUALITY AND BISEXUALITY"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "BRUNEI"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The sultan of Brunei, Hassanal Bolkiah, has advocated a conservative vision of Islam.",
+          "copyright": "Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/28\/world\/SUB28Brunei\/SUB28Brunei-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/28\/world\/SUB28Brunei\/SUB28Brunei-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/28\/world\/SUB28Brunei\/SUB28Brunei-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/5491e636-54a7-5ed4-84ab-99b549fa14fc"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/us\/generation-z.html",
+      "adx_keywords": "Generation Z",
+      "column": "",
+      "section": "U.S.",
+      "byline": "",
+      "type": "Interactive",
+      "title": "Gen Z: In Their Own Words",
+      "abstract": "What is it like to be part of the group that has been called the most diverse generation in U.S. history? We asked members of Generation Z to tell us what makes them different from their friends, and to describe their identity. Here's what they had to say.",
+      "published_date": "2019-03-22",
+      "source": "The New York Times",
+      "id": 100000006417872,
+      "asset_id": 100000006417872,
+      "views": 15,
+      "des_facet": [
+        "GENERATION Z"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/22\/us\/00Gen_Z_promo_01\/00Gen_Z_promo_01-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/22\/us\/00Gen_Z_promo_01\/00Gen_Z_promo_01-mediumThreeByTwo210-v4.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/22\/us\/00Gen_Z_promo_01\/00Gen_Z_promo_01-mediumThreeByTwo440-v4.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/c76ea5fb-6858-5fe0-ab38-540c06fd7400"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/arts\/television\/colbert-russia-mueller-collusion-trump.html",
+      "adx_keywords": "Colbert, Stephen;Mueller, Robert S III;Trump, Donald J;Noah, Trevor (1984- );Kimmel, Jimmy;Jimmy Kimmel Live (TV Program);Late Show with Stephen Colbert (TV Program)",
+      "column": "Best of Late Night",
+      "section": "Arts",
+      "byline": "By GIOVANNI RUSSONELLO",
+      "type": "Article",
+      "title": "Colbert Takes Collusion Off \u2018List of Reasons Trump Is Unfit to Be President\u2019",
+      "abstract": "\u201cPut kids in cages\u201d and \u201call that birther stuff\u201d were left on the list, along with dozens of other items.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006429082,
+      "asset_id": 100000006429082,
+      "views": 16,
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": [
+        "COLBERT, STEPHEN",
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "NOAH, TREVOR (1984- )",
+        "KIMMEL, JIMMY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen Colbert accepted the findings of Robert Mueller\u2019s report, but he said they didn\u2019t absolve Trump of everything.",
+          "copyright": "CBS",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/arts\/26latenight1\/26latenight1-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/arts\/26latenight1\/26latenight1-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/arts\/26latenight1\/26latenight1-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/5a3ccbad-c4fc-560e-8dc1-2b16468ecf2d"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/25\/opinion\/mueller-trump-no-collusion.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;News and News Media;Trump, Donald J;Politics and Government;Corruption (Institutional);United States Politics and Government;Hannity, Sean;Maddow, Rachel;Nixon, Richard Milhous;Reiner, Rob;Schiff, Adam B;Washington (DC)",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By DAVID BROOKS",
+      "type": "Article",
+      "title": "We\u2019ve All Just Made Fools of Ourselves \u2014 Again",
+      "abstract": "The awful corruption of scandal politics.",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006428277,
+      "asset_id": 100000006428277,
+      "views": 17,
+      "des_facet": [
+        "NEWS AND NEWS MEDIA",
+        "POLITICS AND GOVERNMENT",
+        "CORRUPTION (INSTITUTIONAL)",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "HANNITY, SEAN",
+        "MADDOW, RACHEL",
+        "NIXON, RICHARD MILHOUS",
+        "REINER, ROB",
+        "SCHIFF, ADAM B"
+      ],
+      "geo_facet": [
+        "WASHINGTON (DC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Adam Schiff speaking in 2017 about the House Intelligence Committee's investigation into possible ties between the Trump administration and Russia.",
+          "copyright": "Gabriella Demczuk for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/opinion\/25brooksWeb\/25brooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/opinion\/25brooksWeb\/25brooksWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/opinion\/25brooksWeb\/25brooksWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/04f7a683-7818-55c2-8e95-e3258df0efb5"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/arts\/10-things-i-hate-about-you-heath-ledger.html",
+      "adx_keywords": "Movies;10 Things I Hate About You (Movie);Ledger, Heath;Gordon-Levitt, Joseph;Krumholtz, David;Union, Gabrielle;Stiles, Julia",
+      "column": null,
+      "section": "Arts",
+      "byline": "By ILANA KAPLAN",
+      "type": "Article",
+      "title": "\u201810 Things I Hate About You\u2019: When Heath Ledger Was Just Breaking Through",
+      "abstract": "Cast and crew members recall the making of the now-beloved teen comedy as a memorable summer with lasting effects on their careers and lives.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006396046,
+      "asset_id": 100000006396046,
+      "views": 18,
+      "des_facet": [
+        "MOVIES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "LEDGER, HEATH",
+        "GORDON-LEVITT, JOSEPH",
+        "KRUMHOLTZ, DAVID",
+        "UNION, GABRIELLE",
+        "STILES, JULIA"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During a scene on the bleachers, Heath Ledger was running around \u201cwith such joy\u201d the director Gil Junger said.",
+          "copyright": "Touchstone Pictures\/Alamy",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/arts\/31tenthings-history1\/31tenthings-history1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/arts\/31tenthings-history1\/31tenthings-history1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/arts\/31tenthings-history1\/31tenthings-history1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/87987ddb-09c0-5549-b006-3ae98aba5fd2"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/arts\/television\/best-drama-series.html",
+      "adx_keywords": "Television;The Sopranos (TV Program);The Americans (TV Program);Adventure Time (TV Program);The Leftovers (TV Program);Lost (TV Program);The West Wing (TV Program);Game of Thrones (TV Program);Deadwood (TV Program);Jane the Virgin (TV Program);Halt and Catch Fire (TV Program);Breaking Bad (TV Program);The Wire (TV Program);Justified (TV Program);The Good Wife (TV Program);Queen Sugar (TV Program);Grey's Anatomy (TV Program);Mad Men (TV Program);Friday Night Lights (TV Program);Gunn, Anna;Beetz, Zazie;Weiner, Matthew (1965- );Lindelof, Damon;Wright, Alison (1976- )",
+      "column": "",
+      "section": "Arts",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Interactive",
+      "title": "The 20 Best TV Dramas Since \u2018The Sopranos\u2019",
+      "abstract": "It\u2019s been 20 years since those ducks landed in Tony\u2019s pool. A flock of extraordinary shows followed. These are the best dramas since 1999.",
+      "published_date": "2019-01-10",
+      "source": "The New York Times",
+      "id": 100000006297737,
+      "asset_id": 100000006297737,
+      "views": 19,
+      "des_facet": [
+        "TELEVISION"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "GUNN, ANNA",
+        "BEETZ, ZAZIE",
+        "WEINER, MATTHEW (1965- )",
+        "LINDELOF, DAMON",
+        "WRIGHT, ALISON (1976- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Pedro Piccinini. \u201cBreaking Bad,\u201d AMC.",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/ecdf0eeb-8049-53a9-abf6-f430eb3f4104"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/27\/opinion\/trump-obamacare-affordable-care-act.html",
+      "adx_keywords": "Health Insurance and Managed Care;Patient Protection and Affordable Care Act (2010);United States Politics and Government;Barr, William P;Justice Department;Law and Legislation;Medicare;Democratic Party;Republican Party;Trump, Donald J;House of Representatives;Senate;Supreme Court (US)",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By NICHOLAS BAGLEY",
+      "type": "Article",
+      "title": "Why Trump\u2019s New Push to Kill Obamacare Is So Alarming",
+      "abstract": "It\u2019s not just the potential damage to the health care system and the people who depend on it. It\u2019s also the threat, in the administration\u2019s legal position, to the rule of law.",
+      "published_date": "2019-03-27",
+      "source": "The New York Times",
+      "id": 100000006430263,
+      "asset_id": 100000006430263,
+      "views": 20,
+      "des_facet": [
+        "HEALTH INSURANCE AND MANAGED CARE",
+        "PATIENT PROTECTION AND AFFORDABLE CARE ACT (2010)",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "LAW AND LEGISLATION"
+      ],
+      "org_facet": [
+        "JUSTICE DEPARTMENT",
+        "MEDICARE",
+        "DEMOCRATIC PARTY",
+        "REPUBLICAN PARTY",
+        "HOUSE OF REPRESENTATIVES",
+        "SENATE",
+        "SUPREME COURT (US)"
+      ],
+      "per_facet": [
+        "BARR, WILLIAM P",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A chair in an examination room in New York City.",
+          "copyright": "Andrew Lichtenstein\/Corbis, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/opinion\/27BAGLEY\/27BAGLEY-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/opinion\/27BAGLEY\/fileupload-1553639146797-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/opinion\/27BAGLEY\/fileupload-1553639146797-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/ee83d6f8-3539-52b7-ba25-8991d96a5d6b"
+    }
+  ]
+}

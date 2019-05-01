@@ -1,0 +1,94 @@
+apply plugin: 'com.android.application'
+apply plugin: "org.sonarqube"
+
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    defaultConfig {
+        applicationId "com.rahul.sample.xebia"
+        minSdkVersion 23
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            testCoverageEnabled true
+            minifyEnabled false
+        }
+    }
+    dataBinding {
+        enabled = true
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //test libs
+    api 'androidx.appcompat:appcompat:1.0.0-alpha1'
+    api 'androidx.constraintlayout:constraintlayout:1.1.2'
+
+    //test libs
+    testImplementation rootProject.ext.junit
+    androidTestImplementation rootProject.ext.espresso
+    androidTestImplementation rootProject.ext.supportTestRunner
+    androidTestImplementation rootProject.ext.supportTestRule
+    androidTestImplementation 'androidx.test:runner:' + rootProject.runnerVersion;
+    androidTestImplementation 'androidx.test.espresso:espresso-core:' + rootProject.espressoVersion;
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:' + rootProject.espressoVersion
+
+
+    testImplementation rootProject.ext.mockitoTest
+
+
+
+    //support libs
+    api rootProject.ext.supportLibAppCompat
+    implementation rootProject.ext.supportLibDesign
+    api rootProject.ext.supportLibCardView
+    implementation rootProject.ext.constraintLayout
+    implementation rootProject.ext.supportannotation
+
+    //dagger
+    api rootProject.ext.daggerCompiler
+    api rootProject.ext.daggerGlassfish
+    api rootProject.ext.dagger
+    annotationProcessor rootProject.ext.daggerAnnotationVersion
+
+    //rxjava
+    api rootProject.ext.rxjava
+    api rootProject.ext.retrofitRxAdapter
+    //rxAndroid & rxBinding
+    implementation rootProject.ext.rxAndroid
+    implementation rootProject.ext.rxBinding
+
+    //retrofit
+    implementation rootProject.ext.retrofit
+    api rootProject.ext.gsonConverter
+    implementation rootProject.ext.retrofitLogging
+    implementation rootProject.ext.okhttplogginginterceptor
+
+    annotationProcessor rootProject.ext.retrofit
+    //ui
+
+    api rootProject.ext.recyclerView
+
+    // constraintlayout library
+    api rootProject.ext.constrainLibrary
+
+    api rootProject.ext.lifecycleRuntime
+    api rootProject.ext.lifecycleExtension
+    annotationProcessor rootProject.ext.lifecycleRuntime
+
+    api 'com.android.support:multidex:1.0.3'
+
+    implementation 'org.jetbrains:annotations:15.0'
+
+}

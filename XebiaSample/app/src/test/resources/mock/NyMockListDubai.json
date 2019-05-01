@@ -1,0 +1,1208 @@
+﻿{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1702,
+  "results": [
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/21\/business\/boeing-safety-features-charge.html",
+      "adx_keywords": "Boeing 737 Max Groundings and Safety Concerns (2019);Aviation Accidents, Safety and Disasters;Airlines and Airplanes;Boeing Company;Ethiopian Airlines;Lion Air;Regulation and Deregulation of Industry",
+      "column": null,
+      "section": "Business",
+      "byline": "By HIROKO TABUCHI and DAVID GELLES",
+      "type": "Article",
+      "title": "Doomed Boeing Jets Lacked 2 Safety Features That Company Sold Only as Extras",
+      "abstract": "Airlines had to pay more for two optional upgrades that could warn pilots about sensor malfunctions. Boeing now plans to make one of the features standard.",
+      "published_date": "2019-03-21",
+      "source": "The New York Times",
+      "id": 100000006421007,
+      "asset_id": 100000006421007,
+      "views": 1,
+      "des_facet": [
+        "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)",
+        "AVIATION ACCIDENTS, SAFETY AND DISASTERS",
+        "AIRLINES AND AIRPLANES"
+      ],
+      "org_facet": [
+        "BOEING COMPANY",
+        "ETHIOPIAN AIRLINES",
+        "LION AIR",
+        "REGULATION AND DEREGULATION OF INDUSTRY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Standard 737 Max planes are not equipped with a so-called angle of attack indicator or an angle of attack disagree light. The indicator will continue to cost airlines extra, but the light won\u2019t.",
+          "copyright": "Ruth Fremson\/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/23\/business\/23boeing1\/20boeing1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/23\/business\/23boeing1\/20boeing1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/23\/business\/23boeing1\/20boeing1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/b8a29461-75dc-56ee-8f4b-e076749b6a6d"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/24\/us\/politics\/mueller-report-summary.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Mueller, Robert S III;Trump, Donald J;United States Politics and Government;Special Prosecutors (Independent Counsel);Justice Department;Russia;Barr, William P;Presidential Election of 2016",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MARK MAZZETTI and KATIE BENNER",
+      "type": "Article",
+      "title": "Mueller Finds No Trump-Russia Conspiracy, but Stops Short of Exonerating President on Obstruction",
+      "abstract": "The attorney general released the main findings of the closely watched investigation into Russia\u2019s election interference and whether Trump associates conspired.",
+      "published_date": "2019-03-24",
+      "source": "The New York Times",
+      "id": 100000006425832,
+      "asset_id": 100000006425832,
+      "views": 2,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The special counsel, Robert S. Mueller III, and his wife, Ann, near the White House after attending church on Sunday.",
+          "copyright": "Cliff Owen\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/us\/politics\/24dc-cong-promo\/24dc-cong-promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/us\/politics\/24dc-cong-promo\/24dc-cong-promo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/us\/politics\/24dc-cong-promo\/24dc-cong-promo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/0e82d026-fa9b-5802-9df6-b65dfc662b70"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/22\/us\/politics\/mueller-report.html",
+      "adx_keywords": "United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Presidential Election of 2016;Special Prosecutors (Independent Counsel);Justice Department;Mueller, Robert S III;Trump, Donald J;Barr, William P",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By SHARON LaFRANIERE and KATIE BENNER",
+      "type": "Article",
+      "title": "Mueller Delivers Report on Trump-Russia Investigation to Attorney General",
+      "abstract": "Now the attorney general must decide how much of the report \u2014 one of the most highly anticipated documents in Washington in a generation \u2014 to make public.",
+      "published_date": "2019-03-22",
+      "source": "The New York Times",
+      "id": 100000006422774,
+      "asset_id": 100000006422774,
+      "views": 3,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Justice Department is preparing to receive a report from the special counsel, Robert S. Mueller III, and will decide how much of it to make public.",
+          "copyright": "Doug Mills\/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/us\/politics\/25a2_railphoto\/22dc-mueller-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/us\/politics\/25a2_railphoto\/22dc-mueller-1-print-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/us\/politics\/25a2_railphoto\/22dc-mueller-1-print-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/05d46ff2-3cf7-54e4-bb53-630487c90781"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/25\/smarter-living\/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html",
+      "adx_keywords": "Procrastination;Emotions;Psychology and Psychologists;Anxiety and Stress;Boredom",
+      "column": null,
+      "section": "Smarter Living",
+      "byline": "By CHARLOTTE LIEBERMAN",
+      "type": "Article",
+      "title": "Why You Procrastinate (It Has Nothing to Do With Self-Control)",
+      "abstract": "If procrastination isn\u2019t about laziness, then what is it about?",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006416140,
+      "asset_id": 100000006416140,
+      "views": 4,
+      "des_facet": [
+        "PROCRASTINATION",
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "ANXIETY AND STRESS"
+      ],
+      "org_facet": [
+        "EMOTIONS",
+        "BOREDOM"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erik Winkowski",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/166a9d7f-8edd-5ae8-88e5-30a6e80e646e"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/24\/us\/politics\/barr-letter-mueller-report.html",
+      "adx_keywords": "Mueller, Robert S III;Russian Interference in 2016 US Elections and Ties to Trump Associates;Trump, Donald J;Justice Department;Barr, William P",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Interactive",
+      "title": "Read Attorney General William Barr\u2019s Summary of the Mueller Report",
+      "abstract": "The letter, by Attorney General William P. Barr, details the main findings of the special counsel\u2019s two-year investigation into Russian interference in the 2016 presidential election.",
+      "published_date": "2019-03-24",
+      "source": "The New York Times",
+      "id": 100000006374989,
+      "asset_id": 100000006374989,
+      "views": 5,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+      ],
+      "org_facet": [
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": null,
+          "copyright": null,
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/us\/politics\/barr-letter-mueller-report-1553456906394\/barr-letter-mueller-report-1553456906394-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/us\/politics\/barr-letter-mueller-report-1553456906394\/barr-letter-mueller-report-1553456906394-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/us\/politics\/barr-letter-mueller-report-1553456906394\/barr-letter-mueller-report-1553456906394-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/c3d65284-19ac-57fb-a9a8-56cac730abb0"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/25\/travel\/solo-female-travel.html",
+      "adx_keywords": "Women and Girls;Travel and Vacations;Sex Crimes;Murders, Attempted Murders and Homicides;Assaults;Costa Rica;Bolivia;Thailand;Gavios, Hannah M (1993- );Jespersen, Louisa Vesterager;Millane, Grace (d 2018);Ueland, Maren",
+      "column": null,
+      "section": "Travel",
+      "byline": "By MEGAN SPECIA and TARIRO MZEZEWA",
+      "type": "Article",
+      "title": "Adventurous. Alone. Attacked.",
+      "abstract": "The number of female solo travelers has skyrocketed, but amid Instagram-worthy escapades are tales of violence and death, raising questions about how the world is greeting women who travel alone.",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006346102,
+      "asset_id": 100000006346102,
+      "views": 6,
+      "des_facet": [
+        "WOMEN AND GIRLS",
+        "ASSAULTS"
+      ],
+      "org_facet": [
+        "TRAVEL AND VACATIONS",
+        "SEX CRIMES",
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"
+      ],
+      "per_facet": [
+        "GAVIOS, HANNAH M (1993- )",
+        "JESPERSEN, LOUISA VESTERAGER",
+        "MILLANE, GRACE (D 2018)",
+        "UELAND, MAREN"
+      ],
+      "geo_facet": [
+        "COSTA RICA",
+        "BOLIVIA",
+        "THAILAND"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hannah Gavios in Queens, N.Y.",
+          "copyright": "George Etheredge for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/travel\/female-solo-slide-promo\/female-solo-slide-promo-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/travel\/female-solo-slide-promo\/female-solo-slide-promo-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/31\/travel\/female-solo-slide-promo\/female-solo-slide-promo-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/f723a721-2e1d-59bf-b747-172259660f78"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/20\/us\/politics\/mueller-investigation-people-events.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Mueller, Robert S III;Trump, Donald J;WikiLeaks;Russia;Putin, Vladimir V;Cohen, Michael D (1966- );Manafort, Paul J;Flynn, Michael T;Papadopoulos, George (1987- );Stone, Roger J Jr;Gates, Richard W III (1972- );Assange, Julian P;Credico, Randolph A (1954- );Prince, Erica;Nader, George A (1959- );Mohammed bin Salman (1985- );Agalarov, Aras;Agalarov, Emin;Goldstone, Rob (Publicist);Gorkov, Sergey N;Sater, Felix H;Butina, Mariia;Artemenko, Andrii V;Torshin, Alexander;Erickson, Paul (1962- );Akhmetshin, Rinat;Veselnitskaya, Natalia;Mifsud, Joseph;Dvorkovich, Arkady V;Timofeev, Ivan;Vekselberg, Viktor F;Kislyak, Sergei I;Nahyan, Mohamed bin Zayed al- (1961- );Dmitriev, Kirill A (1975- );Polonskaya, Olga;Klokov, Dmitry (1983- )",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By LARRY BUCHANAN and KAREN YOURISH",
+      "type": "Interactive",
+      "title": "Mueller Has Delivered His Report. Here\u2019s What We Already Know.",
+      "abstract": "More than two years of criminal indictments and steady revelations about Trump campaign contacts with Russians reveal the scope of the special counsel investigation.",
+      "published_date": "2019-03-20",
+      "source": "The New York Times",
+      "id": 100000006399782,
+      "asset_id": 100000006399782,
+      "views": 7,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+      ],
+      "org_facet": [
+        "WIKILEAKS"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "PUTIN, VLADIMIR V",
+        "COHEN, MICHAEL D (1966- )",
+        "MANAFORT, PAUL J",
+        "FLYNN, MICHAEL T",
+        "PAPADOPOULOS, GEORGE (1987- )",
+        "STONE, ROGER J JR",
+        "GATES, RICHARD W III (1972- )",
+        "ASSANGE, JULIAN P",
+        "CREDICO, RANDOLPH A (1954- )",
+        "PRINCE, ERICA",
+        "NADER, GEORGE A (1959- )",
+        "MOHAMMED BIN SALMAN (1985- )",
+        "AGALAROV, ARAS",
+        "AGALAROV, EMIN",
+        "GOLDSTONE, ROB (PUBLICIST)",
+        "GORKOV, SERGEY N",
+        "SATER, FELIX H",
+        "BUTINA, MARIIA",
+        "ARTEMENKO, ANDRII V",
+        "TORSHIN, ALEXANDER",
+        "ERICKSON, PAUL (1962- )",
+        "AKHMETSHIN, RINAT",
+        "VESELNITSKAYA, NATALIA",
+        "MIFSUD, JOSEPH",
+        "DVORKOVICH, ARKADY V",
+        "TIMOFEEV, IVAN",
+        "VEKSELBERG, VIKTOR F",
+        "KISLYAK, SERGEI I",
+        "NAHYAN, MOHAMED BIN ZAYED AL- (1961- )",
+        "DMITRIEV, KIRILL A (1975- )",
+        "POLONSKAYA, OLGA",
+        "KLOKOV, DMITRY (1983- )"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/15\/us\/mueller-report-people-events-promo-1552676143429\/mueller-report-people-events-promo-1552676143429-thumbStandard-v5.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/15\/us\/mueller-report-people-events-promo-1552676143429\/mueller-report-people-events-promo-1552676143429-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/15\/us\/mueller-report-people-events-promo-1552676143429\/mueller-report-people-events-promo-1552676143429-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/7f43322d-c0ba-5c81-8257-71d3835e2d0e"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/20\/magazine\/rick-steves-travel-world.html",
+      "adx_keywords": "Steves, Rick;Travel and Vacations;United States Politics and Government;Marijuana;Voyages Spring 2019",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By SAM ANDERSON",
+      "type": "Interactive",
+      "title": "Rick Steves Wants to Save the World, One Vacation at a Time",
+      "abstract": "The travel guru believes the tiniest exposure to other cultures will change Americans\u2019 entire lives.",
+      "published_date": "2019-03-20",
+      "source": "The New York Times",
+      "id": 100000006418533,
+      "asset_id": 100000006418533,
+      "views": 8,
+      "des_facet": [
+        "TRAVEL AND VACATIONS",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "MARIJUANA"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "STEVES, RICK"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rick Steves",
+          "copyright": "Photo illustration by Zachary Scott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-steves1\/24mag-steves1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-steves1\/24mag-steves1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-steves1\/24mag-steves1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/1ba0e161-d838-5f8a-af50-512be6e09409"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/20\/magazine\/kayaking-trip-alaska.html",
+      "adx_keywords": "Voyages Spring 2019;Kayaks;Travel and Vacations;Glacier Bay National Park (Alaska);Alaska",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By JON MOOALLEM",
+      "type": "Interactive",
+      "title": "It Was Just a Kayaking Trip. Until It Upended Our Lives.",
+      "abstract": "A weeklong trip in Alaska was supposed to be an adventure. In an instant, it became the experience that defined us all.",
+      "published_date": "2019-03-20",
+      "source": "The New York Times",
+      "id": 100000006418614,
+      "asset_id": 100000006418614,
+      "views": 9,
+      "des_facet": [
+        "KAYAKS",
+        "TRAVEL AND VACATIONS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "GLACIER BAY NATIONAL PARK (ALASKA)",
+        "ALASKA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The wilderness in Southeast Alaska.",
+          "copyright": "Photo illustration by David Benjamin Sherry",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-Kayaking-slide-SEZO\/24mag-Kayaking-slide-SEZO-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-Kayaking-slide-SEZO\/24mag-Kayaking-slide-SEZO-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-Kayaking-slide-SEZO\/24mag-Kayaking-slide-SEZO-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/9f085780-e6da-5e25-a9ac-bbfc8fc05591"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/arts\/television\/jussie-smollett-charges-dropped.html",
+      "adx_keywords": "Smollett, Jussie (1983- );Hoaxes and Pranks;Hate Crimes;Assaults;Discrimination;Television;Blacks;Chicago (Ill);Empire (TV Program);Homosexuality and Bisexuality;Actors and Actresses;Osundairo, Abimbola;Osundairo, Olabinjo",
+      "column": null,
+      "section": "Arts",
+      "byline": "By JULIE BOSMAN and SOPAN DEB",
+      "type": "Article",
+      "title": "Jussie Smollett\u2019s Charges Are Dropped, Angering Mayor and Police",
+      "abstract": "Rahm Emanuel reacted to Cook County prosecutors\u2019 decision to drop all charges against the \u201cEmpire\u201d actor accused of staging an attack on himself.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006429601,
+      "asset_id": 100000006429601,
+      "views": 10,
+      "des_facet": [
+        "HOAXES AND PRANKS",
+        "HATE CRIMES",
+        "ASSAULTS",
+        "DISCRIMINATION",
+        "BLACKS",
+        "HOMOSEXUALITY AND BISEXUALITY",
+        "ACTORS AND ACTRESSES"
+      ],
+      "org_facet": [
+        "TELEVISION"
+      ],
+      "per_facet": [
+        "SMOLLETT, JUSSIE (1983- )",
+        "OSUNDAIRO, ABIMBOLA",
+        "OSUNDAIRO, OLABINJO"
+      ],
+      "geo_facet": [
+        "CHICAGO (ILL)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jussie Smollett speaking to reporters on Tuesday after his case was dropped, in part due to his record of volunteerism.",
+          "copyright": "Paul Beaty\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/arts\/26SMOLLETT2\/26SMOLLETT2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/arts\/26SMOLLETT2\/merlin_152651298_a4946e0c-a16e-49cc-9cef-8ad1c48044b7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/arts\/26SMOLLETT2\/merlin_152651298_a4946e0c-a16e-49cc-9cef-8ad1c48044b7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/4a76d53d-d8b5-53b5-a77e-21b451241273"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/20\/magazine\/train-across-america-amtrak.html",
+      "adx_keywords": "Voyages Spring 2019;Travel and Vacations;Budget Travel;Amtrak;California;Colorado;Railroads;United States",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By CAITY WEAVER",
+      "type": "Interactive",
+      "title": "There Is No Reason to Cross the U.S. by Train. But I Did It Anyway.",
+      "abstract": "The particular sheen of America by Amtrak.",
+      "published_date": "2019-03-20",
+      "source": "The New York Times",
+      "id": 100000006418069,
+      "asset_id": 100000006418069,
+      "views": 11,
+      "des_facet": [
+        "TRAVEL AND VACATIONS",
+        "BUDGET TRAVEL",
+        "RAILROADS"
+      ],
+      "org_facet": [
+        "AMTRAK"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "CALIFORNIA",
+        "COLORADO",
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The view from the Southwest Chief\u2019s Sightseer Lounge.",
+          "copyright": "Holly Andres for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-train-slideshow-slide-A3W0\/24mag-train-slideshow-slide-A3W0-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-train-slideshow-slide-A3W0\/24mag-train-slideshow-slide-A3W0-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/magazine\/24mag-train-slideshow-slide-A3W0\/24mag-train-slideshow-slide-A3W0-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/bb644ca1-9150-55d9-8305-4341bdfe7eea"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/19\/well\/family\/pet-dog-cat-death-euthanasia.html",
+      "adx_keywords": "Dogs;Cats;Pets;Veterinary Medicine;Death and Dying",
+      "column": null,
+      "section": "Well",
+      "byline": "By TARA PARKER-POPE",
+      "type": "Article",
+      "title": "Knowing the Right Time to Say Goodbye to a Pet",
+      "abstract": "End-of-life decisions for animals are difficult. A veterinarian has developed a scale to help clear up the confusion.",
+      "published_date": "2019-03-19",
+      "source": "The New York Times",
+      "id": 100000006404143,
+      "asset_id": 100000006404143,
+      "views": 12,
+      "des_facet": [
+        "DOGS",
+        "CATS",
+        "PETS",
+        "DEATH AND DYING"
+      ],
+      "org_facet": [
+        "VETERINARY MEDICINE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Fabio Consoli",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/smarter-living\/12well_petgoodbyes\/12well_petgoodbyes-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/smarter-living\/12well_petgoodbyes\/12well_petgoodbyes-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/smarter-living\/12well_petgoodbyes\/12well_petgoodbyes-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/cc2e3776-9fa3-5173-a12a-6092d1b6a0f9"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/19\/opinion\/nicholas-christakis-yale.html",
+      "adx_keywords": "Colleges and Universities;Yale University;Christakis, Nicholas A;Blueprint: The Evolutionary Origins of a Good Society (Book);Social Conditions and Trends;Philosophy;Books and Literature",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By FRANK BRUNI",
+      "type": "Article",
+      "title": "A \u2018Disgusting\u2019 Yale Professor Moves On",
+      "abstract": "How a target of students\u2019 ire came to write a book about humanity\u2019s transcendent goodness.",
+      "published_date": "2019-03-19",
+      "source": "The New York Times",
+      "id": 100000006418185,
+      "asset_id": 100000006418185,
+      "views": 13,
+      "des_facet": [
+        "COLLEGES AND UNIVERSITIES",
+        "SOCIAL CONDITIONS AND TRENDS",
+        "PHILOSOPHY"
+      ],
+      "org_facet": [
+        "YALE UNIVERSITY",
+        "BOOKS AND LITERATURE"
+      ],
+      "per_facet": [
+        "CHRISTAKIS, NICHOLAS A"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": " \"The bright side has been denied the attention it deserves,\u201d writes Nicholas Christakis.",
+          "copyright": "Demetrius Freeman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/19\/opinion\/19bruniWeb\/19bruniWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/19\/opinion\/19bruniWeb\/merlin_152280339_407e890a-898b-40b0-a884-b12c7fdf2792-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/19\/opinion\/19bruniWeb\/merlin_152280339_407e890a-898b-40b0-a884-b12c7fdf2792-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/5ca62b27-9a58-5f62-a5b7-f3048ba235fc"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/26\/sports\/conor-mcgregor-sexual-assault.html",
+      "adx_keywords": "McGregor, Conor (1988- );Sex Crimes;Mixed Martial Arts;Ultimate Fighting Championship",
+      "column": null,
+      "section": "Sports",
+      "byline": "By TARIQ PANJA",
+      "type": "Article",
+      "title": "Conor McGregor Under Investigation Over Sexual Assault Accusation in Ireland",
+      "abstract": "The U.F.C. star was arrested and released without charges as the investigation continued.",
+      "published_date": "2019-03-26",
+      "source": "The New York Times",
+      "id": 100000006333549,
+      "asset_id": 100000006333549,
+      "views": 14,
+      "des_facet": [
+        "SEX CRIMES"
+      ],
+      "org_facet": [
+        "MIXED MARTIAL ARTS",
+        "ULTIMATE FIGHTING CHAMPIONSHIP"
+      ],
+      "per_facet": [
+        "MCGREGOR, CONOR (1988- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Conor McGregor after pleading guilty to a disorderly conduct charge in Brooklyn last year.",
+          "copyright": "Timothy A. Clary\/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/sports\/00Mcgregor1\/00Mcgregor1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/sports\/00Mcgregor1\/00Mcgregor1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/sports\/00Mcgregor1\/00Mcgregor1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/081ced46-1f02-5c56-840b-826843849143"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/arts\/television\/best-drama-series.html",
+      "adx_keywords": "Television;The Sopranos (TV Program);The Americans (TV Program);Adventure Time (TV Program);The Leftovers (TV Program);Lost (TV Program);The West Wing (TV Program);Game of Thrones (TV Program);Deadwood (TV Program);Jane the Virgin (TV Program);Halt and Catch Fire (TV Program);Breaking Bad (TV Program);The Wire (TV Program);Justified (TV Program);The Good Wife (TV Program);Queen Sugar (TV Program);Grey's Anatomy (TV Program);Mad Men (TV Program);Friday Night Lights (TV Program);Gunn, Anna;Beetz, Zazie;Weiner, Matthew (1965- );Lindelof, Damon;Wright, Alison (1976- )",
+      "column": "",
+      "section": "Arts",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Interactive",
+      "title": "The 20 Best TV Dramas Since \u2018The Sopranos\u2019",
+      "abstract": "It\u2019s been 20 years since those ducks landed in Tony\u2019s pool. A flock of extraordinary shows followed. These are the best dramas since 1999.",
+      "published_date": "2019-01-10",
+      "source": "The New York Times",
+      "id": 100000006297737,
+      "asset_id": 100000006297737,
+      "views": 15,
+      "des_facet": [
+        "TELEVISION"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "GUNN, ANNA",
+        "BEETZ, ZAZIE",
+        "WEINER, MATTHEW (1965- )",
+        "LINDELOF, DAMON",
+        "WRIGHT, ALISON (1976- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Pedro Piccinini. \u201cBreaking Bad,\u201d AMC.",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/ecdf0eeb-8049-53a9-abf6-f430eb3f4104"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/20\/health\/twins-fetus-colombia.html",
+      "adx_keywords": "Twins;Pregnancy and Childbirth;Colombia;Parra-Saavedra, Miguel",
+      "column": "Global Health",
+      "section": "Health",
+      "byline": "By DONALD G. McNEIL Jr.",
+      "type": "Article",
+      "title": "A Twin Inside a Twin: In Colombia, an Extraordinary Birth",
+      "abstract": "What appeared to be a cyst in a healthy fetus turned out to be an unformed twin \u201cabsorbed\u201d early in pregnancy, connected by a second umbilical cord and still growing.",
+      "published_date": "2019-03-20",
+      "source": "The New York Times",
+      "id": 100000006418495,
+      "asset_id": 100000006418495,
+      "views": 16,
+      "des_facet": [
+        "TWINS",
+        "PREGNANCY AND CHILDBIRTH"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "PARRA-SAAVEDRA, MIGUEL"
+      ],
+      "geo_facet": [
+        "COLOMBIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ultrasound scan showing a tiny fetus forming in the abdomen of her twin sister while in the womb.",
+          "copyright": "Dr. Miguel Parra-Saavedra",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/20\/science\/20FETUS1\/merlin_152354157_e089ac67-0661-44ad-aa5f-ecce616b1b2a-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/20\/science\/20FETUS1\/20FETUS1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/20\/science\/20FETUS1\/20FETUS1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/3df1ad39-9b90-5738-919c-a427f3185650"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/25\/nyregion\/sandy-hook-father.html",
+      "adx_keywords": "Richman, Jeremy (d 2019);Newtown, Conn, Shooting (2012);Suicides and Suicide Attempts;School Shootings and Armed Attacks;Sandy Hook Elementary School (Newtown, Conn);Newtown (Conn)",
+      "column": null,
+      "section": "New York",
+      "byline": "By MICHAEL GOLD and TYLER PAGER",
+      "type": "Article",
+      "title": "Sandy Hook Victim\u2019s Father Dies in Apparent Suicide in Newtown",
+      "abstract": "Jeremy Richman, 49, was found at a movie theater and event space, according to a statement from the local police.",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006427497,
+      "asset_id": 100000006427497,
+      "views": 17,
+      "des_facet": [
+        "NEWTOWN, CONN, SHOOTING (2012)",
+        "SUICIDES AND SUICIDE ATTEMPTS",
+        "SCHOOL SHOOTINGS AND ARMED ATTACKS"
+      ],
+      "org_facet": [
+        "SANDY HOOK ELEMENTARY SCHOOL (NEWTOWN, CONN)"
+      ],
+      "per_facet": [
+        "RICHMAN, JEREMY (D 2019)"
+      ],
+      "geo_facet": [
+        "NEWTOWN (CONN)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Richman stood with his wife, Jennifer Hensel, as she held a photo of their daughter, Avielle Richman, at the Edmond Town Hall, a movie theater and event space, in Newtown, Conn., in 2013.",
+          "copyright": "Jessica Hill\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/nyregion\/26sandyhook-print\/25sandyhook01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/nyregion\/26sandyhook-print\/25sandyhook01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/nyregion\/26sandyhook-print\/25sandyhook01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/8ffc9fa3-b6ce-5f6d-8d70-f407ce627aee"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/16\/style\/snowplow-parenting-scandal.html",
+      "adx_keywords": "Admissions Standards;Colleges and Universities;College Admissions Scandal (2019);Parenting;Tests and Examinations;SAT (College Admission Test);Education (K-12)",
+      "column": null,
+      "section": "Style",
+      "byline": "By CLAIRE CAIN MILLER and JONAH ENGEL BROMWICH",
+      "type": "Article",
+      "title": "How Parents Are Robbing Their Children of Adulthood",
+      "abstract": "Today\u2019s \u201csnowplow parents\u201d keep their children\u2019s futures obstacle-free \u2014 even when it means crossing ethical and legal boundaries.",
+      "published_date": "2019-03-16",
+      "source": "The New York Times",
+      "id": 100000006411881,
+      "asset_id": 100000006411881,
+      "views": 18,
+      "des_facet": [
+        "ADMISSIONS STANDARDS",
+        "COLLEGES AND UNIVERSITIES",
+        "PARENTING",
+        "TESTS AND EXAMINATIONS"
+      ],
+      "org_facet": [
+        "COLLEGE ADMISSIONS SCANDAL (2019)",
+        "SAT (COLLEGE ADMISSION TEST)",
+        "EDUCATION (K-12)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/17\/style\/17snowplow-1\/17snowplow-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/17\/style\/17snowplow-1\/17snowplow-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/17\/style\/17snowplow-1\/17snowplow-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/08baa5d4-b67b-5e29-8212-7c64d8978670"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/20\/world\/asia\/lion-air-crash-boeing.html",
+      "adx_keywords": "Aviation Accidents, Safety and Disasters;Boeing 737 Max Groundings and Safety Concerns (2019);Airlines and Airplanes;Boeing Company;Lion Air;Ethiopian Airlines;Indonesia;Addis Ababa (Ethiopia)",
+      "column": null,
+      "section": "World",
+      "byline": "By HANNAH BEECH and MUKTITA SUHARTONO",
+      "type": "Article",
+      "title": "Confusion, Then Prayer, in Cockpit of Doomed Lion Air Jet",
+      "abstract": "Indonesian investigators described the sounds emanating from the cockpit as the flight crew fought to take control of a plane that seemed almost magnetically propelled toward earth.",
+      "published_date": "2019-03-20",
+      "source": "The New York Times",
+      "id": 100000006419894,
+      "asset_id": 100000006419894,
+      "views": 19,
+      "des_facet": [
+        "AVIATION ACCIDENTS, SAFETY AND DISASTERS",
+        "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)",
+        "AIRLINES AND AIRPLANES"
+      ],
+      "org_facet": [
+        "BOEING COMPANY",
+        "LION AIR",
+        "ETHIOPIAN AIRLINES"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "INDONESIA",
+        "ADDIS ABABA (ETHIOPIA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Lion Air Boeing 737 Max 8 on the tarmac of Soekarno Hatta International airport near Jakarta, Indonesia.",
+          "copyright": "Willy Kurniawan\/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/20\/world\/20lionair-cockpit\/20lionair-cockpit-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/20\/world\/20lionair-cockpit\/merlin_152106150_5347841f-00d8-41ad-b3cc-132107a5014c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/20\/world\/20lionair-cockpit\/merlin_152106150_5347841f-00d8-41ad-b3cc-132107a5014c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/06070a6b-a47c-59b9-8f92-76e87bb9ede1"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/24\/opinion\/barr-mueller-report.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Special Prosecutors (Independent Counsel);Trump, Donald J;Barr, William P;Mueller, Robert S III;Comey, James B;Justice Department",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By NEAL K. KATYAL",
+      "type": "Article",
+      "title": "The Many Problems With the Barr Letter",
+      "abstract": "By unilaterally concluding that Mr. Trump did not obstruct justice, the attorney general has made it imperative that the public see the Mueller report.",
+      "published_date": "2019-03-24",
+      "source": "The New York Times",
+      "id": 100000006426638,
+      "asset_id": 100000006426638,
+      "views": 20,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)"
+      ],
+      "org_facet": [
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "BARR, WILLIAM P",
+        "MUELLER, ROBERT S III",
+        "COMEY, JAMES B"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William Barr said that Robert Mueller\u2019s team drew no conclusions about whether President Trump illegally obstructed justice.",
+          "copyright": "T.J. Kirkpatrick for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/opinion\/24katyalWeb\/24katyalWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/opinion\/24katyalWeb\/24katyalWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/24\/opinion\/24katyalWeb\/24katyalWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/f2b7f77f-d7d7-5e90-89ee-225b51ae7257"
+    }
+  ]
+}
