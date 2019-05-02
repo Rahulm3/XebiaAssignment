@@ -26,7 +26,7 @@ public class NyNewsActivityTest {
     public void setUp() throws Exception {
         newsResponse= new NyResponse();
         activity = Mockito.spy(new NyNewsActivity());
-        newsResponse= TestUtils.loadJson("mock/nyMockListGgn.json",mGson);
+        newsResponse= TestUtils.loadJson("mock/NyMockListGgn.json",mGson);
         activity.mDataItems=newsResponse.getResults();
 
 
